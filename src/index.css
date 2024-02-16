@@ -7,7 +7,7 @@ body,
 .content {
 	height: 100%;
 	width: 100%;
-	font-family: 'Fira Code', monospace, sans-serif;
+	font-family: 'Fira Code', monospace;
 }
 
 .app {
